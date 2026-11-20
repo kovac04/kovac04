@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="248" viewBox="0 0 1000 248" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Uroš Kovačević</title>
+  <desc id="desc">ML systems and embedded software, Vancouver, Canada. A model graph becomes a sequence of executable kernels.</desc>
+  <rect x="0.5" y="0.5" width="999" height="247" rx="12" fill="#111B17" stroke="#2A3D33"/>
+  <path d="M52 46H82" stroke="#A7D9BB" stroke-width="3"/>
+  <text x="95" y="50" fill="#A7D9BB" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.2">ML SYSTEMS / EMBEDDED SOFTWARE</text>
+  <text x="49" y="119" fill="#F0F5F1" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.7">Uroš Kovačević</text>
+  <text x="52" y="157" fill="#B3C5B9" font-family="Arial, Helvetica, sans-serif" font-size="20">From model graphs to hardware.</text>
+  <text x="52" y="208" fill="#81998A" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.5">VANCOUVER, CANADA</text>
+  <path d="M631 43V205" stroke="#2A3D33"/>
+  <g stroke="#476B56" stroke-width="1.5">
+    <path d="M700 79L754 119L700 159M754 119L808 79M754 119L808 159"/>
+    <path d="M816 119H851M845 114L851 119L845 124"/>
+  </g>
+  <g fill="#1B2C23" stroke="#8DC8A5" stroke-width="1.5">
+    <rect x="687" y="66" width="26" height="26" rx="6"/>
+    <rect x="687" y="146" width="26" height="26" rx="6"/>
+    <rect x="741" y="106" width="26" height="26" rx="6"/>
+    <rect x="795" y="66" width="26" height="26" rx="6"/>
+    <rect x="795" y="146" width="26" height="26" rx="6"/>
+  </g>
+  <g fill="#A7D9BB">
+    <circle cx="700" cy="79" r="3"/>
+    <circle cx="700" cy="159" r="3"/>
+    <circle cx="754" cy="119" r="3"/>
+    <circle cx="808" cy="79" r="3"/>
+    <circle cx="808" cy="159" r="3"/>
+    <rect x="871" y="83" width="60" height="12" rx="3" opacity=".45"/>
+    <rect x="871" y="105" width="41" height="12" rx="3" opacity=".7"/>
+    <rect x="871" y="127" width="60" height="12" rx="3"/>
+    <rect x="871" y="149" width="28" height="12" rx="3" opacity=".45"/>
+  </g>
+  <text x="685" y="208" fill="#81998A" font-family="monospace" font-size="11" letter-spacing="1">GRAPH</text>
+  <text x="867" y="208" fill="#81998A" font-family="monospace" font-size="11" letter-spacing="1">KERNELS</text>
+</svg>

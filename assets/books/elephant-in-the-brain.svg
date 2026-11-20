@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="276" viewBox="0 0 192 276" role="img" aria-labelledby="title">
+  <title id="title">The Elephant in the Brain by Kevin Simler and Robin Hanson</title>
+  <!-- Original reading-shelf illustration, not publisher cover artwork. -->
+  <rect x=".5" y=".5" width="191" height="275" rx="5" fill="#C8CFE0" stroke="#A8B1C7"/>
+  <path d="M8 1V275" stroke="#A8B1C7"/>
+  <text x="24" y="33" fill="#58627D" font-family="Arial, Helvetica, sans-serif" font-size="9" letter-spacing="2">PSYCHOLOGY</text>
+  <g fill="#303C5A" font-family="Georgia, 'Times New Roman', serif" font-size="23">
+    <text x="23" y="72">The Elephant</text>
+    <text x="23" y="100">in the Brain</text>
+  </g>
+  <g fill="none" stroke="#596B94" stroke-width="1.4">
+    <circle cx="83" cy="165" r="29"/>
+    <circle cx="113" cy="165" r="29"/>
+    <path d="M98 141V189M64 165H132"/>
+  </g>
+  <circle cx="98" cy="165" r="7" fill="#596B94"/>
+  <path d="M24 235H168" stroke="#A8B1C7"/>
+  <text x="24" y="253" fill="#455270" font-family="Arial, Helvetica, sans-serif" font-size="9.5">KEVIN SIMLER &amp; ROBIN HANSON</text>
+</svg>
