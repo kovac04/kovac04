@@ -1,16 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" fill="none" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="194" viewBox="0 0 600 194" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Uroš Kovačević</title>
-  <desc id="desc">ML systems and embedded software. From model graphs to hardware. Vancouver, Canada.</desc>
-  <rect x="0.5" y="0.5" width="599" height="259" rx="12" fill="#111B17" stroke="#2A3D33"/>
+  <desc id="desc">ML systems and language models. Vancouver, Canada.</desc>
+  <rect x="0.5" y="0.5" width="599" height="193" rx="12" fill="#111B17" stroke="#2A3D33"/>
   <path d="M34 44H54" stroke="#A7D9BB" stroke-width="3"/>
-  <text x="66" y="49" fill="#A7D9BB" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.8">ML SYSTEMS / EMBEDDED SOFTWARE</text>
-  <text x="31" y="123" fill="#F0F5F1" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.7">Uroš Kovačević</text>
-  <text x="34" y="165" fill="#B3C5B9" font-family="Arial, Helvetica, sans-serif" font-size="24">From model graphs to hardware.</text>
-  <text x="34" y="225" fill="#81998A" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.5">VANCOUVER, CANADA</text>
+  <text x="66" y="49" fill="#A7D9BB" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.8">ML SYSTEMS / LANGUAGE MODELS</text>
+  <text x="31" y="110" fill="#F0F5F1" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.7">Uroš Kovačević</text>
+  <text x="34" y="166" fill="#81998A" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.5">VANCOUVER, CANADA</text>
+  <g transform="translate(0,-56)">
   <path d="M480 206L508 221L536 206" stroke="#476B56" stroke-width="1.5"/>
   <g fill="#1B2C23" stroke="#8DC8A5" stroke-width="1.5">
     <rect x="473" y="199" width="14" height="14" rx="3"/>
     <rect x="501" y="214" width="14" height="14" rx="3"/>
     <rect x="529" y="199" width="14" height="14" rx="3"/>
+  </g>
   </g>
 </svg>
