@@ -19,17 +19,59 @@ I'm a computer science student at **Simon Fraser University**, interested in the
 
 ### Skills
 
-**Languages**\
-Python · C++ · C · Rust · SQL · TypeScript · JavaScript · Java · Haskell
+**Languages**
 
-**ML & research**\
-PyTorch · NumPy · SciPy · pandas · scikit-learn · Hugging Face Transformers · matplotlib · Jupyter\
-Autograd · Backpropagation · Transformers · Attention mechanisms · Autoregressive generation · Training loops · SGD / Adam · Gradient clipping · Normalization\
-NLP · LLM evaluation · Machine unlearning evaluation · Retrieval · BM25 · ROUGE-L · Dataset construction · Data pipelines · Experiment analysis · OpenAI API
+<p>
+  <img src="assets/badges/python.svg" alt="Python" height="26">
+  <img src="assets/badges/cpp.svg" alt="C++" height="26">
+  <img src="assets/badges/c.svg" alt="C" height="26">
+  <img src="assets/badges/rust.svg" alt="Rust" height="26">
+  <img src="assets/badges/sql.svg" alt="SQL" height="26">
+  <img src="assets/badges/typescript.svg" alt="TypeScript" height="26">
+  <img src="assets/badges/javascript.svg" alt="JavaScript" height="26">
+  <img src="assets/badges/java.svg" alt="Java" height="26">
+  <img src="assets/badges/haskell.svg" alt="Haskell" height="26">
+</p>
 
-**Systems & applications**\
-Linux · Bash · Git · Docker · Make / CMake · GDB · Valgrind · uv · pytest · CI/CD\
-FastAPI · Pydantic · REST APIs · WebSockets · React · Next.js · Vite · PostgreSQL · SQLite · AWS (EC2, S3, Lambda)
+**ML & research**
+
+<p>
+  <img src="assets/badges/pytorch.svg" alt="PyTorch" height="26">
+  <img src="assets/badges/numpy.svg" alt="NumPy" height="26">
+  <img src="assets/badges/scipy.svg" alt="SciPy" height="26">
+  <img src="assets/badges/pandas.svg" alt="pandas" height="26">
+  <img src="assets/badges/scikit-learn.svg" alt="scikit-learn" height="26">
+  <img src="assets/badges/transformers.svg" alt="Hugging Face Transformers" height="26">
+  <img src="assets/badges/matplotlib.svg" alt="matplotlib" height="26">
+  <img src="assets/badges/jupyter.svg" alt="Jupyter" height="26">
+  <img src="assets/badges/openai.svg" alt="OpenAI API" height="26">
+</p>
+
+- **Foundations:** Autograd · Backpropagation · Transformers · Attention mechanisms · Autoregressive generation
+- **Training:** Training loops · SGD / Adam · Gradient clipping · Normalization
+- **Research:** NLP · LLM evaluation · Machine unlearning evaluation · Retrieval · BM25 · ROUGE-L · Dataset construction · Data pipelines · Experiment analysis
+
+**Systems & applications**
+
+<p>
+  <img src="assets/badges/linux.svg" alt="Linux" height="26">
+  <img src="assets/badges/bash.svg" alt="Bash" height="26">
+  <img src="assets/badges/git.svg" alt="Git" height="26">
+  <img src="assets/badges/docker.svg" alt="Docker" height="26">
+  <img src="assets/badges/cmake.svg" alt="CMake" height="26">
+  <img src="assets/badges/uv.svg" alt="uv" height="26">
+  <img src="assets/badges/pytest.svg" alt="pytest" height="26">
+  <img src="assets/badges/fastapi.svg" alt="FastAPI" height="26">
+  <img src="assets/badges/pydantic.svg" alt="Pydantic" height="26">
+  <img src="assets/badges/react.svg" alt="React" height="26">
+  <img src="assets/badges/nextjs.svg" alt="Next.js" height="26">
+  <img src="assets/badges/vite.svg" alt="Vite" height="26">
+  <img src="assets/badges/postgresql.svg" alt="PostgreSQL" height="26">
+  <img src="assets/badges/sqlite.svg" alt="SQLite" height="26">
+  <img src="assets/badges/aws.svg" alt="AWS: EC2, S3, Lambda" height="26">
+</p>
+
+Make · GDB · Valgrind · CI/CD · REST APIs · WebSockets · AWS (EC2, S3, Lambda)
 
 **Currently learning**\
 ML compiler internals · Graph lowering · Kernel scheduling · Triton · GPU kernel autotuning · Roofline modeling · pybind11

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="26" viewBox="0 0 90 26" role="img" aria-labelledby="title">
+  <title id="title">Haskell</title>
+  <!-- Icon: Simple Icons, CC0. Badge design: original. -->
+  <rect x=".5" y=".5" width="89" height="25" rx="5" fill="#65528B"/>
+  <rect x=".5" y=".5" width="89" height="25" rx="5" fill="none" stroke="#FFFFFF" stroke-opacity=".12"/>
+  <g transform="translate(8 6) scale(.583333)" fill="#FFFFFF"><path d="M0 3.535L5.647 12 0 20.465h4.235L9.883 12 4.235 3.535zm5.647 0L11.294 12l-5.647 8.465h4.235l3.53-5.29 3.53 5.29h4.234L9.883 3.535zm8.941 4.938l1.883 2.822H24V8.473zm2.824 4.232l1.882 2.822H24v-2.822z"/></g>
+  <text x="29" y="17" fill="#FFFFFF" font-family="DejaVu Sans, Verdana, sans-serif" font-size="12" font-weight="600">Haskell</text>
+</svg>
