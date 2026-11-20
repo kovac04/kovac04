@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/banner-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Uroš Kovačević — ML systems & embedded software. Vancouver, Canada." width="100%">
+  <img src="assets/banner-light.svg" alt="Uroš Kovačević - ML systems. Vancouver, Canada." width="100%">
 </picture>
 
 <p>
