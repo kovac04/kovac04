@@ -15,7 +15,7 @@
   <a href="mailto:uros.dev@icloud.com"><img src="assets/icons/mail.svg" width="16" height="16" alt="">&nbsp;Email</a>
 </p>
 
-I'm a computer science student at **Simon Fraser University**, building across machine learning systems, language model research, and embedded software. I like understanding the layers beneath the abstraction—and keeping the software above them simple.
+I'm a computer science student at **Simon Fraser University**, building across machine learning systems, language model research, and embedded software. I like understanding the layers beneath the abstractions and keeping the software above them simple.
 
 **Right now:** studying ML compiler internals through [tinygrad](https://github.com/tinygrad/tinygrad): graph lowering, kernel scheduling, and efficient model execution.
 
