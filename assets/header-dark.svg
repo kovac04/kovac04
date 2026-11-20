@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Uroš Kovačević</title>
-  <desc id="desc">ML systems and language models, Vancouver, Canada.</desc>
+  <desc id="desc">Uroš Kovačević. ML systems and language models. Vancouver, Canada.</desc>
   <rect x="0.5" y="0.5" width="999" height="199" rx="12" fill="#111B17" stroke="#2A3D33"/>
   <path d="M52 46H82" stroke="#A7D9BB" stroke-width="3"/>
   <text x="95" y="50" fill="#A7D9BB" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.2">ML SYSTEMS / LANGUAGE MODELS</text>
