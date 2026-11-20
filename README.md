@@ -15,7 +15,7 @@
 
 I'm a computer science student at **Simon Fraser University**, interested in the software that makes machine learning work: automatic differentiation, language model inference, and efficient model execution. I like understanding the layers beneath the abstractions and keeping the software above them simple.
 
-**Right now:** studying ML compiler internals through [tinygrad](https://github.com/tinygrad/tinygrad) and starting **TileScout**, a layout- and memory-budget-aware autotuner for Triton kernels.
+**Right now:** studying ML compiler internals through [tinygrad](https://github.com/tinygrad/tinygrad).
 
 ### Skills
 
